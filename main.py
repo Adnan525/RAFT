@@ -1,0 +1,5 @@
+import os
+import dotenv
+
+from llama_index.core import SimpleDirectoryReader
+from langchain.text_splitter import RecursiveCharacterTextSplitter
