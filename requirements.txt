@@ -1,0 +1,5 @@
+llama-index
+llama-index-core
+langchain
+python-dotenv
+tqdm
