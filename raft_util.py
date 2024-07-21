@@ -59,7 +59,7 @@ def generate_cot_answer(llm:OpenAI, question:str, context:str) -> str:
         ),
         ChatMessage(role="user", content=prompt),
     ]
-    return str(llm.chat(messages)).split("\n")
+    return str(llm.chat(messages))
 
 
 def flatten_list(xss: List[List[str]]):

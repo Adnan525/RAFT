@@ -1,0 +1,24 @@
+What is the capital of France? ===== Paris
+What is the capital of Japan? ===== Tokyo
+What is the capital of Canada? ===== Ottawa
+What is the capital of Australia? ===== Canberra
+What is the capital of Azerbaijan? ===== Baku
+What is the capital of Italy? ===== Rome
+What is the capital of Bangladesh? ===== Dhaka
+What is the capital of Egypt? ===== Cairo
+What is the capital of Russia? ===== Moscow
+What is the starting square of the white king in standard chess? ===== e1
+How many pieces does each player start with in a game of chess? ===== 16
+What is the term for a move that puts the opponent's king in immediate threat of capture? ===== Check
+What is the only piece that can jump over other pieces in chess? ===== Knight
+How many squares are in a chess board? ===== 64
+What is the move called when a king and a rook move at the same time? ===== Castling
+Which piece is considered the most powerful on the chessboard? ===== Queen
+What is it called when a pawn reaches the opposite side of the board and is promoted to a higher piece? ===== Promotion
+Who wrote the play "Romeo and Juliet"? ===== William Shakespeare
+Who painted the Mona Lisa? ===== Leonardo da Vinci
+Who developed the theory of relativity? ===== Albert Einstein
+What is the tallest mountain in the world? ===== Mount Everest
+Who was the first President of the United States? ===== George Washington
+In which year did the Titanic sink? ===== 1912
+What is the largest ocean on Earth? ===== Pacific Ocean
